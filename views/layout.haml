@@ -1,0 +1,16 @@
+!!!
+%html
+  %head
+    %title blog
+    != css :main, media: "all", "data-turbolinks-track" => true
+    != js :main
+    -# = javascript_include_tag "application", "data-turbolinks-track" => true
+    -# %link(type="text/css" rel="stylesheet" media="screen" href="/css/screen.css")
+    -# = css :main, :media => 'screen'
+    -# = csrf_meta_tags
+  %body
+  .header
+    .logo Logo
+  = yield
+  %script
+    :plain
