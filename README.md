@@ -5,3 +5,11 @@
 1. dev a feature
 2. dev a model
 
+## website reference
+
+[sinatra assetpack](https://github.com/rstacruz/sinatra-assetpack)
+[Sinatra-Integration](https://github.com/chriseppstein/compass/wiki/Sinatra-Integration)
+
+for import sass 
+https://github.com/rstacruz/sinatra-assetpack/issues/14
+[sass-import](https://github.com/rstacruz/sinatra-assetpack/issues/14)
