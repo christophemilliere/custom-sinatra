@@ -7,9 +7,9 @@
 
 ## website reference
 
-[sinatra assetpack](https://github.com/rstacruz/sinatra-assetpack)
+[sinatra assetpack](https://github.com/rstacruz/sinatra-assetpack) <br/>
 [Sinatra-Integration](https://github.com/chriseppstein/compass/wiki/Sinatra-Integration)
 
-for import sass 
+for import sass <br/>
 https://github.com/rstacruz/sinatra-assetpack/issues/14
 [sass-import](https://github.com/rstacruz/sinatra-assetpack/issues/14)
